@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=Leoman_gurman&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=Leoman_gurman&stroke=%23BB432C&theme=gradient&hide_clan=true)
 
 
 <!--
