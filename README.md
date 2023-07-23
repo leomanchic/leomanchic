@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+![Codewars](https://github.r2v.ch/codewars?user=Leoman_gurman&stroke=%23BB432C)
+
 
 <!--
 **leomanchic/leomanchic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
